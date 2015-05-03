@@ -2,11 +2,67 @@
 <items version="2" >
 
     <item
+        jar="/Users/a/Nic/github/arcadiusk/techcrunch-disrupt-esri-android/CardboardSample/build/intermediates/exploded-aar/com.esri.arcgis.android/arcgis-android/10.2.5/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="e10d2c7d375690a30c933e9983eab44c9db0e8d9">
+        <dex dex="/Users/a/Nic/github/arcadiusk/techcrunch-disrupt-esri-android/CardboardSample/build/intermediates/pre-dexed/debug/classes-e7ac3bb5d2e8bb76d5f48cd42a990e594d3a15d9.jar" />
+    </item>
+    <item
+        jar="/Users/a/Nic/github/arcadiusk/techcrunch-disrupt-esri-android/CardboardSample/build/intermediates/exploded-aar/com.esri.arcgis.android/arcgis-android/10.2.5/libs/jcifs-1.3.17.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="60e3805e7bcfe96bf1f1907b821d251cc9d789ec">
+        <dex dex="/Users/a/Nic/github/arcadiusk/techcrunch-disrupt-esri-android/CardboardSample/build/intermediates/pre-dexed/debug/jcifs-1.3.17-7534cf24202d6505461f6eea66610bc4480c30d5.jar" />
+    </item>
+    <item
+        jar="/Users/a/Nic/github/arcadiusk/techcrunch-disrupt-esri-android/CardboardSample/libs/cardboard.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="362279d4f3f879ad389c300e0bc1f188ad522a08">
+        <dex dex="/Users/a/Nic/github/arcadiusk/techcrunch-disrupt-esri-android/CardboardSample/build/intermediates/pre-dexed/debug/cardboard-0ef1248bbbaef05f25503c8948946d10f297bbfc.jar" />
+    </item>
+    <item
         jar="/Users/a/Nic/github/arcadiusk/cardboard-java/CardboardSample/libs/cardboard.jar"
         jumboMode="false"
         revision="19.1.0"
         sha1="362279d4f3f879ad389c300e0bc1f188ad522a08">
         <dex dex="/Users/a/Nic/github/arcadiusk/cardboard-java/CardboardSample/build/intermediates/pre-dexed/debug/cardboard-d85a79d1f6cb5065fe4d9c7c01386dca26572544.jar" />
+    </item>
+    <item
+        jar="/Users/a/Nic/github/arcadiusk/techcrunch-disrupt-esri-android/CardboardSample/build/intermediates/exploded-aar/com.esri.arcgis.android/arcgis-android/10.2.5/libs/jackson-core-1.9.5.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="75ac72d19377a95225217cb4fdfa1290f3c81145">
+        <dex dex="/Users/a/Nic/github/arcadiusk/techcrunch-disrupt-esri-android/CardboardSample/build/intermediates/pre-dexed/debug/jackson-core-1.9.5-f53728c3e49c0182c257db837a0775a8b5e2554d.jar" />
+    </item>
+    <item
+        jar="/Users/a/Nic/github/arcadiusk/techcrunch-disrupt-esri-android/CardboardSample/libs/libprotobuf-java-2.6-nano.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="2ba3ce68542db5a4b672a22606e4fd4631ed5c4f">
+        <dex dex="/Users/a/Nic/github/arcadiusk/techcrunch-disrupt-esri-android/CardboardSample/build/intermediates/pre-dexed/debug/libprotobuf-java-2.6-nano-c4e686a68799c3ced61c00231c8111195ebce2b8.jar" />
+    </item>
+    <item
+        jar="/Users/a/Nic/github/arcadiusk/techcrunch-disrupt-esri-android/CardboardSample/build/intermediates/exploded-aar/com.esri.arcgis.android/arcgis-android/10.2.5/libs/jackson-mapper-1.9.5.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="ffbb48e87fa5e9107c17aaa0616f724d785a4d71">
+        <dex dex="/Users/a/Nic/github/arcadiusk/techcrunch-disrupt-esri-android/CardboardSample/build/intermediates/pre-dexed/debug/jackson-mapper-1.9.5-1b7e68f12e8ae56a40f30fc86b2af502e82d99c2.jar" />
+    </item>
+    <item
+        jar="/Users/a/Nic/github/arcadiusk/techcrunch-disrupt-esri-android/CardboardSample/build/intermediates/exploded-aar/com.esri.arcgis.android/arcgis-android/10.2.5/libs/arcgis-android-app-toolkit.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="3244230646d35497f07922233935e7aa8d465b10">
+        <dex dex="/Users/a/Nic/github/arcadiusk/techcrunch-disrupt-esri-android/CardboardSample/build/intermediates/pre-dexed/debug/arcgis-android-app-toolkit-c8b364b488e12621889243050234f81d707a072d.jar" />
+    </item>
+    <item
+        jar="/Users/a/Nic/github/arcadiusk/techcrunch-disrupt-esri-android/CardboardSample/build/intermediates/exploded-aar/com.esri.arcgis.android/arcgis-android/10.2.5/libs/arcgis-android-api.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="74ad2535c53e4706c2471b8a8aae3b31517a34e0">
+        <dex dex="/Users/a/Nic/github/arcadiusk/techcrunch-disrupt-esri-android/CardboardSample/build/intermediates/pre-dexed/debug/arcgis-android-api-cfc94c2aaf835d8a42eab31005261a91cb6b2655.jar" />
     </item>
     <item
         jar="/Users/a/Nic/github/arcadiusk/cardboard-java/CardboardSample/libs/libprotobuf-java-2.6-nano.jar"

@@ -23,12 +23,12 @@ public final class WorldLayoutData {
 
   public static final float[] CUBE_COORDS = new float[] {
       // Front face
-      -1.0f, 1.0f, 1.0f,
-      -1.0f, -1.0f, 1.0f,
-      1.0f, 1.0f, 1.0f,
-      -1.0f, -1.0f, 1.0f,
-      1.0f, -1.0f, 1.0f,
-      1.0f, 1.0f, 1.0f,
+      -2.0f, 1.0f, 1.0f,
+      -2.0f, -1.0f, 1.0f,
+      2.0f, 1.0f, 1.0f,
+      -2.0f, -1.0f, 1.0f,
+      2.0f, -1.0f, 1.0f,
+      2.0f, 1.0f, 1.0f,
 
       // Right face
       1.0f, 1.0f, 1.0f,

@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CardboardSample/CardboardSample.iml" filepath="$PROJECT_DIR$/CardboardSample/CardboardSample.iml" />
-      <module fileurl="file://$PROJECT_DIR$/cardboard-java.iml" filepath="$PROJECT_DIR$/cardboard-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/techcrunch-disrupt-esri-android.iml" filepath="$PROJECT_DIR$/techcrunch-disrupt-esri-android.iml" />
     </modules>
   </component>
 </project>
