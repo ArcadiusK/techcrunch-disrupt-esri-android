@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/a/Nic/github/arcadiusk/cardboard-java/CardboardSample/libs/cardboard.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="362279d4f3f879ad389c300e0bc1f188ad522a08">
+        <dex dex="/Users/a/Nic/github/arcadiusk/cardboard-java/CardboardSample/build/intermediates/pre-dexed/debug/cardboard-d85a79d1f6cb5065fe4d9c7c01386dca26572544.jar" />
+    </item>
+    <item
+        jar="/Users/a/Nic/github/arcadiusk/cardboard-java/CardboardSample/libs/libprotobuf-java-2.6-nano.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="2ba3ce68542db5a4b672a22606e4fd4631ed5c4f">
+        <dex dex="/Users/a/Nic/github/arcadiusk/cardboard-java/CardboardSample/build/intermediates/pre-dexed/debug/libprotobuf-java-2.6-nano-e9c12602bcf84e40dc688f95c0bbc311a4bc148b.jar" />
+    </item>
+
+</items>
