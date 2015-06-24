@@ -311,8 +311,8 @@ public class MainActivity extends CardboardActivity implements CardboardView.Ste
    * @param resId The resource ID of the raw text file about to be turned into a shader.
    * @return The context of the text file, or null in case of error.
    */
-  private String readRawTextFile(int resId) {
-    InputStream inputStream = getResources().openRawResource(resId);
+  private String readRawTextFile(int resourceId) {
+    InputStream inputStream = getResources().openRawResource(resourceId);
     try {
       BufferedReader reader = new BufferedReader(new InputStreamReader(inputStream));
       StringBuilder sb = new StringBuilder();
